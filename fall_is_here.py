@@ -1,2 +1,2 @@
-def announce_solstice():
-    print("Today is the solstice!")
+def announce_equinox():
+    print("Today is the equinox!")
